@@ -19,7 +19,7 @@ const Hero = () => {
     />
     </Link>
     
-        <button type="button" className="black_btn" onClick={() => window.open('https://github.com/minhajHameed')}>
+        <button type="button" className="black_btn" onClick={() => window.open('https://github.com/sangmesh121')}>
             GitHub
         </button>
     </nav>
